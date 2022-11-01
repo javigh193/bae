@@ -1,3 +1,3 @@
 <div align="justify">
-<img src="tarea12.png"> 
+    <img src="tarea12.png"> 
 </div>

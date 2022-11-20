@@ -24,3 +24,15 @@ Ahora tengo datos repetidos, para evitar esto, separo la tabla en varias tablas:
 En la tabla del alumno aún hay atributos que no tienen dependencia funcional de su clave primaria (DNI), tendría que separarlos en sus respectivas tablas dónde si guarden dependencia funcional con sus claves primarias.
 
 <img src="tarea2.2.png">
+
+## 5.Indicar las claves candidatas de todas las tablas resultantes:
+
+Tabla de provincias: provincia
+
+Tabla de ciudades: ciudad
+
+Tabla de alumnos: dni (podría ser también la superclave nombre + apellidos)
+
+Tabla notas: la superclave dni + código (el de cada asignatura)
+
+Tabla asignaturas: código

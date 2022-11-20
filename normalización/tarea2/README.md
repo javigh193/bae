@@ -12,3 +12,7 @@ Las claves candidatas son aquellas que podrían identificar unívocamente cada t
 En la tabla dada se incumple la 1ª forma normal. Habría que separar en tuplas los distintos valores de 'Código', 'Asignatura' y 'Nota'.
 
 <img src="../img/tarea2.1.png">
+
+Ahora tengo datos repetidos, para evitar esto, separo la tabla en varias tablas:
+
+<img src="tarea2.1.png">

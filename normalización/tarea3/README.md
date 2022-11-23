@@ -13,5 +13,5 @@ A la vista está que no se cumple, al existir atributos multivaluados en la tabl
 
 Para solucionarlo separo la información en dos tablas:
 
-<img src="img/tarea3.1.png">
+<img src="tarea3.1.png">
 

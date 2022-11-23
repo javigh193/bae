@@ -30,7 +30,7 @@ La tabla de empleados no lo está, ya que los salarios dependen del puesto desem
 
 Se cumple la tercera forma normal, ya que no hay dependencias que no sean de la clave primaria (dependencias  transitivas).
 
-#3 7. Normalizar si no se cumple el apartado 6
+## 7. Normalizar si no se cumple el apartado 6
 
 Se cumple la tercera forma normal en todas las  tablas, no hacen falta cambios.
 

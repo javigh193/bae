@@ -22,24 +22,24 @@ Teniendo en cuenta la dependencia funcional de los atributos respecto de sus cla
 La tabla de emails está en 2ª forma normal.
 La tabla de empleados no lo está, ya que los salarios dependen del puesto desempeñado y no del número de la seguridad social, se tendría que extraer esa información a otra tabla.
 
-# 5. Normalizar si no se cumple el apartado 4
+## 5. Normalizar si no se cumple el apartado 4
 
 <img src="tarea3.2.png">
 
-# 6. Comprobar si se cumple la 3ª Forma Normal
+## 6. Comprobar si se cumple la 3ª Forma Normal
 
 Se cumple la tercera forma normal, ya que no hay dependencias que no sean de la clave primaria (dependencias  transitivas).
 
-# 7. Normalizar si no se cumple el apartado 6
+#3 7. Normalizar si no se cumple el apartado 6
 
 Se cumple la tercera forma normal en todas las  tablas, no hacen falta cambios.
 
-# 8. Indicar claves candidatas de todas las tablas resultantes
+## 8. Indicar claves candidatas de todas las tablas resultantes
 
 Empleados --> claves candidatas: NSS (clave primaria), nombre (terminará por no serlo)
 Emails --> claves candidatas: email (clave primaria)
 Puestos --> claves primarias: puesto (clave primaria)
 
-# 9. Genera el diagrama E/R resultante
+## 9. Genera el diagrama E/R resultante
 
 <img src="tarea3.3.png">

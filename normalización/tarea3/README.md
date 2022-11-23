@@ -15,3 +15,13 @@ Para solucionarlo separo la información en dos tablas:
 
 <img src="tarea3.1.png">
 
+## 4. Comprobar si se cumple la 2ª Forma Normal
+
+Teniendo en cuenta la dependencia funcional de los atributos respecto de sus claves primarias, tengo que :
+
+La tabla de emails está en 2ª forma normal.
+La tabla de empleados no lo está, ya que los salarios dependen del puesto desempeñado y no del número de la seguridad social, se tendría que extraer esa información a otra tabla.
+
+# 5. Normalizar si no se cumple el apartado 4
+
+<img src="tarea3.2.png">

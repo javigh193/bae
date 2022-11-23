@@ -19,7 +19,7 @@ Para solucionarlo separo la información en dos tablas:
 
 Teniendo en cuenta la dependencia funcional de los atributos respecto de sus claves primarias, tengo que :
 
-La tabla de emails está en 2ª forma normal.
+La tabla de contactos está en 2ª forma normal.
 La tabla de empleados no lo está, ya que los salarios dependen del puesto desempeñado y no del número de la seguridad social, se tendría que extraer esa información a otra tabla.
 
 ## 5. Normalizar si no se cumple el apartado 4
@@ -37,8 +37,8 @@ Se cumple la tercera forma normal en todas las  tablas, no hacen falta cambios.
 ## 8. Indicar claves candidatas de todas las tablas resultantes
 
 Empleados --> claves candidatas: NSS (clave primaria), nombre (terminará por no serlo)
-Emails --> claves candidatas: email (clave primaria)
-Puestos --> claves primarias: puesto (clave primaria)
+Contactos --> claves candidatas: email (clave primaria)
+Trabajo --> claves primarias: puesto (clave primaria)
 
 ## 9. Genera el diagrama E/R resultante
 

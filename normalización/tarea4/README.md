@@ -31,4 +31,4 @@ Se cumple.
 
 Nombre de lector no puede ser la PK de la tabla de lectores, ya que pueden existir dos lectores que se llamen igual.
 
-Libros: <u> CodLibro </u>
+Libros: <u><span>CodLibro</span></u>

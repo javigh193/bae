@@ -29,6 +29,5 @@ Se cumple.
 ## 7. Indicar claves de todas las tablas resultantes.
 
 Nombre de lector no puede ser la PK de la tabla de lectores, ya que pueden existir dos lectores que se llamen igual.
-<html>
-  Libros: <u>CodLibro</u>
-</html>
+Libros --> PK: CodLibro
+

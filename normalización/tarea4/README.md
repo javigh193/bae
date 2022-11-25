@@ -9,4 +9,4 @@ No se cumple la primera forma normal, en el campo autor tenemos múltiples valor
 
 Para poder crear las tablas correspondientes se generan varias tablas extras:
 
-<img src="tareas4.1.png">
+<img src="tarea4.1.png">

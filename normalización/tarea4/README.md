@@ -31,4 +31,12 @@ Se cumple.
 Nombre de lector no puede ser la PK de la tabla de lectores, ya que pueden existir dos lectores que se llamen igual.
 
 Libros --> PK: CodLibro
+Publicados --> PK: CodLibro + NombreAutor
+Leen --> PK: CodLibro + NombreLector
+Autores: PK: NombreAutor
+Lectores: PK: NombreLector
+
+## 8. Generar el diagrama E/R resultante.
+
+<img src="tarea4.2.png">
 

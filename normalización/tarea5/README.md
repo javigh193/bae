@@ -14,5 +14,5 @@ No se cumple la primera forma normal, ya que los valores no son atómicos. El ca
 
 Separo la tabla en varias tablas para eliminar las repeticiones del valor de las PKs.
 
-<img src="tareas5.1.png">
+<img src="tarea5.1.png">
 

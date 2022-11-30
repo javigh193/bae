@@ -12,3 +12,7 @@ No se cumple la primera forma normal, ya que los valores no son atómicos. El ca
 
 ## 2. Normalizar si no se cumple el apartado 1
 
+Separo la tabla en varias tablas para eliminar las repeticiones del valor de las PKs.
+
+<img src="tareas5.1.png">
+

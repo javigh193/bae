@@ -6,3 +6,4 @@ No se cumple ya que hay valores multivaluados y las claves no tienen valores ún
 
 ## 2. Normalizar si no se cumple el apartado 1.
 
+<img src="tarea6.png">

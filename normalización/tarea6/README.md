@@ -35,3 +35,7 @@ Rating, PK: idRating
 aparece, PK: códigoSerie + nombreVillano
 
 Villano, PK: nombreVillano
+
+## 8. Generar el diagrama E/R resultante.
+
+<img src="tarea6.1.png">
